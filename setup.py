@@ -31,9 +31,12 @@ setup(
     packages=find_packages(where='src'),
     python_requires='>=3.5, <4',
     install_requires=[
+        "scipy",
         "numpy",
+        "numba",
         "pandas",
+        "numpy_ext",
+        "matplotlib",
         "scikit-learn",
-        "scipy"
     ],
 )

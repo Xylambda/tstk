@@ -1,6 +1,6 @@
 # tstk
 
-`WIP`: Personal time series kit written in Python.
+`WIP`: Personal time series toolkit written in Python.
 
 ## Installation
 
